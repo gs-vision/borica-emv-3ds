@@ -16,3 +16,7 @@ composer.lock
 
 # Local History for Visual Studio Code
 .history/
+.idea/php.xml
+.idea/borica-emv-3ds.iml
+.idea/vcs.xml
+.idea/modules.xml
